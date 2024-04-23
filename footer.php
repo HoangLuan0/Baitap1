@@ -11,6 +11,7 @@
                 <input type="text" placeholder="Nhập email của bạn">
                 <i class="fas fa-arrow-left"></i>
             </div>
+            <!-- ví dụ -->
             <div class="footer-items">
                 <li><a href=""><img src="image/dathongbao.png" alt=""></a></li>
                 <li><a href="">Liên hệ</a></li>
